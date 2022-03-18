@@ -1,0 +1,12 @@
+{
+  "name": "scheduler",
+  "version": "1.0.0",
+  "description": "Assignment for Instaminutes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sharoof Khan",
+  "license": "ISC"
+}
